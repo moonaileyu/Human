@@ -16,7 +16,7 @@ public:
 	char* GetSurname();
 	int GetAge();
 
-	void SetName(const char* n);
-	void SetSurname(const char* s);
-	void SetAge(int a);
+	void SetName(const char* NewName);
+	void SetSurname(const char* NewSurname);
+	void SetAge(int NewAge);
 };
