@@ -9,7 +9,7 @@ public:
 	Human();
 	Human(const char* n, const char* s, int a);
 	~Human();
-	void Input();
+	//void Input();
 	void Print();
 
 	char* GetName();

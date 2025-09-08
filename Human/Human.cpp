@@ -26,10 +26,10 @@ Human::~Human()
 	delete[] surname;
 }
 
-void Human::Input()
-{
-
-}
+//void Human::Input()
+//{
+//
+//}
 
 void Human::Print()
 {
